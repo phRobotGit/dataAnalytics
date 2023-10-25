@@ -1,0 +1,51 @@
+Viz gallery 
+
+The collection of nice visualization 
+
+https://public.tableau.com/app/discover/viz-of-the-day
+
+https://www.tableau.com/viz-gallery
+
+https://www.tableau.com/data-insights/dashboard-showcase
+
+
+
+To-do 
+
+（1）如何来归类这些viz?
+
+
+
+[Toc]
+
+# (1) Dashboard
+
+Tableau可以用于开发dashboard, 注意左上角 welcome, guest user 
+
+![image-20231026020344322](C:\Users\ph_ro\AppData\Roaming\Typora\typora-user-images\image-20231026020344322.png)
+
+
+
+
+
+# (2) Map
+
+![image-20231026020548175](C:\Users\ph_ro\AppData\Roaming\Typora\typora-user-images\image-20231026020548175.png)
+
+![image-20231026020623245](C:\Users\ph_ro\AppData\Roaming\Typora\typora-user-images\image-20231026020623245.png)
+
+
+
+
+
+# (3)??
+
+![image-20231026020751718](C:\Users\ph_ro\AppData\Roaming\Typora\typora-user-images\image-20231026020751718.png)
+
+
+
+
+
+# （4） Roadmap
+
+![image-20231026020908871](C:\Users\ph_ro\AppData\Roaming\Typora\typora-user-images\image-20231026020908871.png)
